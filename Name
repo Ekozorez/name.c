@@ -1,0 +1,8 @@
+/* name.c EK prints a message */
+2
+3 int puts(char *message);
+4
+5 int main(void) {
+6 puts("Back to 1970");
+7 return 42;
+8 }
